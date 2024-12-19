@@ -1,3 +1,4 @@
+
 # Introduction to DevOps and Linux  
 
 Our learning journey began on November 9th, and the first week was all about laying the groundwork.  
@@ -8,4 +9,5 @@ After learning that we were welcomed **what DevOps is**. We learned that DevOps 
 
 Finally, we moved on to **Linux commands**. Since Linux is one of the most widely used operating systems in DevOps, learning how to work with it was crucial. We practiced commands to navigate directories, create and manage files, and control permissions. This hands-on practice gave us a good understanding of the basics of Linux.  
 
-# Devops and commands
+
+
