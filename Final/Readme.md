@@ -5,17 +5,18 @@ They say health is wealth, true talk.
 
 ## 🧡 Big Congrats, Ijay!🫂
 
-You did it!!! you’re now a DevOps Engineer! I’m super proud of you.
+You did it!!! You’re now a DevOps Engineer! I’m super proud of you.
 
 <img src="ijay.png" alt="IBT CERTIFICATE"/>
 
 
-Huge thanks to @IBT and everyone who made this opportunity possible. 🙏
+Thanks to [IBT Learning](https://ibtlearning.africa/) and everyone who made this opportunity possible. 🙏
 
-And guess what? Our tutor didn’t just teach and go — he was so intentional, he gave us extra demo work to practice our DevOps skills. (Don’t worry, I’ve still got mine to finish. 😅)
+And guess what? Our tutor [@ooghenekaro](https://github.com/ooghenekaro) didn’t just teach and go — he was so intentional, he gave us extra demo work to practice our DevOps skills. (Don’t worry, go with your pace; I’ve still got mine to finish. 😅)
+
 
 The journey was real. The growth? Even realer.
 
-Let’s go build, deploy, and automate all the things! 🚀
+Let’s go build, deploy, and automate everything! 🚀
 
 
